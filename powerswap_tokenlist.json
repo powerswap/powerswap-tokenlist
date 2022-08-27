@@ -74,14 +74,6 @@
       "address": "0x264C554a8b00a0e017F00D7AD7F7D1dfB86ad9d3",
       "symbol": "CHARM",
       "decimals": 18,
-      "chainId": 42,
-      "logoURI": "https://raw.githubusercontent.com/powerswap/powerswap-tokenlist/master/CPPC2.png"
-    },
-    {
-      "name": "CHARM",
-      "address": "0x264C554a8b00a0e017F00D7AD7F7D1dfB86ad9d3",
-      "symbol": "CHARM",
-      "decimals": 18,
       "chainId": 56,
       "logoURI": "https://raw.githubusercontent.com/powerswap/powerswap-tokenlist/master/CPPC2.png"
     },
@@ -99,6 +91,14 @@
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 256,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png"
+    },
+    {
+      "name": "Wrapped HT",
+      "address": "0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F",
+      "symbol": "WHT",
+      "decimals": 18,
+      "chainId": 128,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png"
     },
     {
@@ -165,14 +165,7 @@
       "chainId": 128,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4779.png"
     },
-    {
-      "name": "Wrapped HT",
-      "address": "0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F",
-      "symbol": "WHT",
-      "decimals": 18,
-      "chainId": 128,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2502.png"
-    },
+    
     {
       "name": "Heco-Peg ETH Token",
       "address": "0x64FF637fB478863B7468bc97D30a5bF3A428a1fD",
