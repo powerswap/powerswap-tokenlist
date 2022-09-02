@@ -14,6 +14,22 @@
   ],
   "tokens": [
     {
+      "name": "CHARM",
+      "address": "0x7783dd17C9b387c5DACed6319b29E08A3AA6b258",
+      "symbol": "CHARM",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/powerswap/powerswap-tokenlist/master/charm.png"
+    },
+    {
+      "name": "CHARM",
+      "address": "0x7EC66913A74Bab2d94997b6DA26F46022b45Bc75",
+      "symbol": "CHARM",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/powerswap/powerswap-tokenlist/master/charm.png"
+    },
+    {
       "name": "Wrapped ETH",
       "address": "0xA3402dc2616D57F2cbCE2F6e0Aeb7e3F0953d8dd",
       "symbol": "WETH",
@@ -91,7 +107,7 @@
       "symbol": "CPPC",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/powerswap/powerswap-tokenlist/master/CPPC2.png"
+      "logoURI": "https://raw.githubusercontent.com/powerswap/powerswap-tokenlist/master/charm.png"
     },
     {
       "name": "USE",
