@@ -14,7 +14,7 @@
   ],
   "tokens": [
     {
-      "name": "CHARM",
+      "name": "Charm Derivatives Platform Token",
       "address": "0x7783dd17C9b387c5DACed6319b29E08A3AA6b258",
       "symbol": "CHARM",
       "decimals": 18,
@@ -22,7 +22,7 @@
       "logoURI": "https://raw.githubusercontent.com/powerswap/powerswap-tokenlist/master/charm.png"
     },
     {
-      "name": "CHARM",
+      "name": "Charm Derivatives Platform Token",
       "address": "0x7EC66913A74Bab2d94997b6DA26F46022b45Bc75",
       "symbol": "CHARM",
       "decimals": 18,
