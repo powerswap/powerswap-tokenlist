@@ -19,7 +19,7 @@
       "symbol": "CHARM",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/powerswap/powerswap-tokenlist/master/charm.png"
+      "logoURI": "https://raw.githubusercontent.com/powerswap/powerswap-tokenlist/master/icons/charm.png"
     },
     {
       "name": "Charm Derivatives Platform Token",
@@ -27,7 +27,7 @@
       "symbol": "CHARM",
       "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/powerswap/powerswap-tokenlist/master/charm.png"
+      "logoURI": "https://raw.githubusercontent.com/powerswap/powerswap-tokenlist/master/icons/charm.png"
     },
     {
       "name": "Wrapped ETH",
